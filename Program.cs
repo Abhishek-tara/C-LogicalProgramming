@@ -10,7 +10,9 @@
             //SwapTwoNumbers.printSwapTwoNumbers();
             //LargestAmongThreeNumbers.PrintMaxNumber();
             //FlipCoin.CalculatePercentage();
-            LeapYear.checkLeapyear();
+            //LeapYear.checkLeapyear();
+            PowerOf2.PrintPowerOf2();
+
         }
 
 
