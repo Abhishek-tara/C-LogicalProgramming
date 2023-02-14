@@ -9,7 +9,8 @@
             //EvenAndOdd.checkEvenAndOdd();
             //SwapTwoNumbers.printSwapTwoNumbers();
             //LargestAmongThreeNumbers.PrintMaxNumber();
-            FlipCoin.CalculatePercentage();
+            //FlipCoin.CalculatePercentage();
+            LeapYear.checkLeapyear();
         }
 
 
