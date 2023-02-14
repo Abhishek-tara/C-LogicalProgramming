@@ -11,7 +11,8 @@
             //LargestAmongThreeNumbers.PrintMaxNumber();
             //FlipCoin.CalculatePercentage();
             //LeapYear.checkLeapyear();
-            PowerOf2.PrintPowerOf2();
+            //PowerOf2.PrintPowerOf2();
+            Factor.primeFactors();
 
         }
 
